@@ -5,6 +5,7 @@ build/
 !**/src/test/**/build/
 .gradle/wrapper/
 
+*.xml
 ### IntelliJ IDEA ###
 .idea/
 .idea/modules.xml
